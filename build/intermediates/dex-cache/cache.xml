@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/marian/Schreibtisch/App/Autovermietung/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/marian/Schreibtisch/App/Autovermietung/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-b751161360ec0cdd37a6f00a858a40698983e7b3.jar" />
+    </item>
+    <item
+        jar="/home/marian/Schreibtisch/App/Autovermietung/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/marian/Schreibtisch/App/Autovermietung/app/build/intermediates/pre-dexed/debug/classes-e4e6e34bdf69d2fe4d066a85f1a90a334e2a07c4.jar" />
+    </item>
+    <item
+        jar="/home/marian/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/marian/Schreibtisch/App/Autovermietung/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-b43fd4f72005099fcb8b9ee102dd882a9fe1ff69.jar" />
+    </item>
+    <item
+        jar="/home/marian/Schreibtisch/App/Autovermietung/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/marian/Schreibtisch/App/Autovermietung/app/build/intermediates/pre-dexed/debug/classes-4f2e04e50ed89382fc3695ace7e98caecd92a447.jar" />
+    </item>
+    <item
+        jar="/home/marian/Schreibtisch/App/Autovermietung/app/libs/ksoap2-android-assembly-3.4.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="45fbaab416fb5cff992e662d1f7a83786f084fc3">
+        <dex dex="/home/marian/Schreibtisch/App/Autovermietung/app/build/intermediates/pre-dexed/debug/ksoap2-android-assembly-3.4.0-jar-with-dependencies-d929cfbbd7304b912a9a08914eae7a183bd7686d.jar" />
+    </item>
+
+</items>
